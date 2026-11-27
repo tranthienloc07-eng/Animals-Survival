@@ -1,0 +1,6 @@
+{
+  "name": "Animal Survival - Prototype v0.2",
+  "description": "Trò chơi sinh tồn động vật thế giới mở góc nhìn thứ ba - Animal Survival Prototype v0.2",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
